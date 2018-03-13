@@ -2,7 +2,7 @@
 
 The task is to identify the phone from the given image
 
-![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/images/10.jpg)
+![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/images/1.jpg)
 
 ## Training Classifier
 Use  `train_phone.py` to first crop the object from the image based on the `labels.txt` provided in the images folder.
