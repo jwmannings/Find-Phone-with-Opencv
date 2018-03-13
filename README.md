@@ -32,6 +32,12 @@ The `cascade.xml` file will get created in data folder which is used for predict
 The results of the x,y cordinates of a phone in an image are stored in the `res.txt` file. The cordinates are normalized.
 
 ### Results
-![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/res14.jpg)
 ![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/res1.jpg)
-![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/res4.jpg)
+
+### Other Resutls
+![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/res2.jpg)
+![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/res0.jpg)
+![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/res56.jpg)
+![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/res62.jpg)
+
+
