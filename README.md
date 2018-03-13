@@ -1,6 +1,7 @@
 # Find-Phone-with-Opencv
 
 The task is to identify the phone from the given image
+
 ![alt_text](https://github.com/raj-shah14/Find-Phone-with-Opencv/blob/master/images/10.jpg)
 
 ## Training Classifier
