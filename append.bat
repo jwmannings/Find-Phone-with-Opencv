@@ -1,0 +1,1 @@
+for /F "delims=" %%j in (bg.txt) do echo.C:\Python27\find_phone\neg_img\%%j >> Neg.txt
